@@ -2,7 +2,8 @@
 Machine Learning Pipline
 **
 Business Problem Understanding
-CCP (Churn Customer Prediction): following my experience and career in Telco Industry (MTNIrancell), prediction on churn and how to increase the revenue of the company with different
+CCP (Churn Customer Prediction): following my experience and career in Telco Industry (MTNIrancell), 
+prediction on churn and how to increase the revenue of the company with different
 campaigns and make the customer more loyal is one of the most challenging problems which the
 baseline of all actions is to know the churn ratio on our products and our customers.
 For this practice, a Dataset that has been chosen is from Kaggle which initially from the IBM
